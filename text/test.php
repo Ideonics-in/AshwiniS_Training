@@ -5,7 +5,7 @@
 </head>
 <body>
 <?php
-echo"hello php";
+echo"hello php,its my first php program";
 ?>
 </body>
 </html>
